@@ -16,11 +16,10 @@ import ImageIcon from "@material-ui/icons/Image";
 
 function Searchpage() {
   const [{ term }, dispatch] = useStateValue();
-  //live api call
+
   const { data } = useGoogleSearch(term);
 
-  // Mock API
-  // const data = response;
+  
 
   console.log(data);
   return (
