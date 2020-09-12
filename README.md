@@ -21,7 +21,7 @@
 
 ```
 $ git clone https://github.com/robin025/google-search-clone.git
-$ cd whatsapp-web-app
+$ cd google-search-clone
 $ npm install && npm start
 ```
 
