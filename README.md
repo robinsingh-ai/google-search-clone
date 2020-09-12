@@ -1,3 +1,30 @@
+#  Google Search web Clone
+- A Google Search Clone
+
+
+## Tech Stack
+
+- React js
+- Firebase for deploy
+- Google API with Custom Search
+- React Hooks
+- React Context API
+- React Router
+- styled-components
+- material-ui icons
+
+
+## Preview
+- https://gooogle-web-clone.web.app/
+
+## Devlopment
+
+```
+$ git clone https://github.com/robin025/google-search-clone.git
+$ cd whatsapp-web-app
+$ npm install && npm start
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
